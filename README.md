@@ -31,8 +31,8 @@ This dashboard is part of a larger data engineering project that includes:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/price-tracker-app.git
-   cd price-tracker-app
+   git clone https://github.com/Arjunmenon0103/https-github.com-arjunmenon0103-price-tracker-app.git
+   cd https-github.com-arjunmenon0103-price-tracker-app
    ```
 
 2. **Create and activate a virtual environment** (recommended):
