@@ -2,6 +2,9 @@
 
 This Streamlit dashboard visualizes the relationship between product prices and inflation rates across different countries, categories, and time periods. It provides interactive filters, visualizations, and data tables to explore economic trends and price changes.
 
+Link to the dashboard - https://analyticeengineeringbootcampmay2025pricetracker.streamlit.app/
+
+
 ## Features
 
 - **Multiple Data Sources**: Combines Eurostat inflation data and Open Food Facts product data
